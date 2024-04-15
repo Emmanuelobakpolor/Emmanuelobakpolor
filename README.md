@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Emmanuelobakpolor
 - 👀 I’m interested in working 
-- 🌱 I’m currently learning Python programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instgram:@_ntechs email:@emmanuelobakpolor@gmail.com
+- 🌱 data analyst and python programmer
+- expert in django and apis
+- expert in power Bi and excel spread sheet
   
 - ⚡ Fun fact: ...
 
